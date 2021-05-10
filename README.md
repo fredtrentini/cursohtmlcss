@@ -1,4 +1,4 @@
-# curso HTML/CSS
+# Curso HTML/CSS
 
 Curso feito para aprender HTML e CSS com funcionalidades recentes, como display flex.
 
